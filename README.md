@@ -1,16 +1,32 @@
-## Hi there 👋
+# Abdulaziz Nuri (ANBU)
 
-<!--
-**abdunuri/abdunuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at HiLCoE building automation systems and SaaS products.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Bakery management SaaS (Gagari)
+- Automation systems using Python & Playwright
+- Full-stack development with Next.js + Prisma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Build
+### Gagari
+A bakery operations system focused on orders, sales tracking, carryover, and production workflows.
+
+## Tech Stack
+- Python
+- TypeScript
+- Next.js
+- PostgreSQL
+- Prisma
+- Playwright
+
+## Currently Learning
+- System design
+- Offline-first apps (PWA + IndexedDB)
+- Scalable SaaS architecture
+
+## Philosophy
+I like building systems that become part of daily operations instead of "cool side projects."
+
+## Contact
+- Telegram: @LazyDevANBU
+- GitHub: abdunuri
