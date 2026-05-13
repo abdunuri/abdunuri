@@ -1,3 +1,4 @@
+<img width="942" height="465" alt="github_preview_optimized_900" src="https://github.com/user-attachments/assets/76a6d700-1bf9-4afe-930b-1600a81365ce" />
 # Abdulaziz Nuri (ANBU)
 
 Building automation systems and operational SaaS products focused on real-world business workflows.
