@@ -1,32 +1,44 @@
 # Abdulaziz Nuri (ANBU)
 
-Software Engineering student at HiLCoE building automation systems and SaaS products.
+Building automation systems and operational SaaS products focused on real-world business workflows.
 
-Currently focused on:
-- Bakery management SaaS (Gagari)
-- Automation systems using Python & Playwright
-- Full-stack development with Next.js + Prisma
+Currently developing systems around:
 
-## Current Build
+* bakery operations & sales infrastructure
+* workflow automation
+* offline-capable business platforms
+* scalable full-stack web applications
+
+## Current Focus
+
 ### Gagari
-A bakery operations system focused on orders, sales tracking, carryover, and production workflows.
 
-## Tech Stack
-- Python
-- TypeScript
-- Next.js
-- PostgreSQL
-- Prisma
-- Playwright
+An operations platform designed for bakeries to manage orders, sales tracking, carryover, production workflows, and business records in one system.
 
-## Currently Learning
-- System design
-- Offline-first apps (PWA + IndexedDB)
-- Scalable SaaS architecture
+Built with a focus on practical daily operations rather than generic dashboard software.
 
-## Philosophy
-I like building systems that become part of daily operations instead of "cool side projects."
+## Core Stack
+
+* Python
+* TypeScript
+* Next.js
+* PostgreSQL
+* Prisma
+* Playwright
+
+## Areas of Interest
+
+* SaaS architecture
+* business automation
+* offline-first systems
+* operational software
+* scalable product infrastructure
+
+## Approach
+
+I prefer building systems that integrate directly into daily business operations and become difficult to replace once adopted.
 
 ## Contact
-- Telegram: @LazyDevANBU
-- GitHub: abdunuri
+
+* Telegram: @LazyDevANBU
+* GitHub: abdunuri
