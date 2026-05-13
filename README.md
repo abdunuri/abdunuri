@@ -23,6 +23,7 @@ Built with a focus on practical daily operations rather than generic dashboard s
 * Python
 * TypeScript
 * Next.js
+* Supabase
 * PostgreSQL
 * Prisma
 * Playwright
