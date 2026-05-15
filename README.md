@@ -24,7 +24,6 @@
 <br>
 
 * Building automation systems and operational SaaS products
-* Currently building [Gagari](https://gagari.app) — a bakery operations platform
 * Focused on business workflow systems and offline-capable applications
 * Interested in scalable SaaS infrastructure and automation engineering
 * Building with real operational use-cases instead of demo projects
