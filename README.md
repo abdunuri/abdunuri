@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Automation+Developer;Building+Operational+SaaS+Products;Python+%7C+Next.js+%7C+Playwright;Focused+on+Real-World+Business+Systems;Full-Stack+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Automation+Developer;Building+Operational+SaaS+Products;Web+Automation;Business+Workflow+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -107,9 +107,9 @@ Event discovery and management platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdunuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdunuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0a0a0a&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdunuri&layout=compact&theme=algolia" />
+<img src="https://github-profile-trophy.vercel.app/?username=abdunuri&layout=compact&theme=algolia" alt="GitHub Trophies" />
 
 </div>
 
